@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/7/23 10:45:58。
+     1>项目“E:\visual studio 2013\Projects\Spider\Spider\Spider.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Spider.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Spider.cpp SpiderDlg.cpp
+         SpiderDlg.cpp
+     1>e:\visual studio 2013\projects\spider\spider\spiderdlg.cpp(465): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+         正在生成代码...
+         正在编译...
+         Spider.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\visual studio 2013\Projects\Spider\Debug\Spider.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\visual studio 2013\Projects\Spider\Debug\Spider.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\visual studio 2013\Projects\Spider\Debug\Spider.lib" /MACHINE:X86 Debug\Spider.res
+         Debug\SkyChaserHttp.obj
+         Debug\Spider.obj
+         Debug\SpiderDlg.obj
+         Debug\stdafx.obj
+         Debug\URLCode.obj
+         Spider.vcxproj -> E:\visual studio 2013\Projects\Spider\Debug\Spider.exe
+     1>已完成生成项目“E:\visual studio 2013\Projects\Spider\Spider\Spider.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.79
